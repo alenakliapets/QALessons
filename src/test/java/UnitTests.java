@@ -50,6 +50,7 @@ public class UnitTests {
         Assert.assertEquals(calculator.divDouble(4.5, 1.5),3);
     }
 
+
     @Test
     public void positiveDivDoubleTest2(){
         Calculator calculator = new Calculator();
